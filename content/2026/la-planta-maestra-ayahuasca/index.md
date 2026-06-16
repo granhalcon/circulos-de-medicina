@@ -8,4 +8,8 @@ event_date = "2026-12-08"
 event_date_label = "8 de diciembre de 2026"
 +++
 
-Contenido editorial en preparación.
+**Fecha:** 8 de diciembre de 2026
+
+**Círculo de Medicina:** La Planta Maestra Ayahuasca
+
+<p class="construction-message">Aún estoy bajando la medicina.</p>
