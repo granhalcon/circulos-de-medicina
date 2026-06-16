@@ -1,4 +1,5 @@
 base_url = "https://circulo.pages.dev/circulos-de-medicina"
+theme = "enso"
 title = "Círculos de Medicina"
 description = ""
 default_language = "es"
